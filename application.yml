@@ -1,0 +1,5 @@
+# Config data exposed by config server
+
+cache:
+  client: Redission
+  provider: Redis
